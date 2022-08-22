@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BulletChart (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BulletChart (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
