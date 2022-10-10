@@ -1,6 +1,6 @@
 # How to create a bullet chart with the WinUI linear gauge
 
-This repository contains sample for how to design a Bullet Chart using the [Syncfusion WinUI Linear Gauge](https://help.syncfusion.com/winui/linear-gauge/getting-started) control.
+This repository contains sample to design a Bullet Chart using the [Syncfusion WinUI Linear Gauge](https://help.syncfusion.com/winui/linear-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13600/how-to-create-a-bullet-chart-with-the-winui-linear-gauge-sflineargauge).
 
